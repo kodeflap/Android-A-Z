@@ -1,3 +1,5 @@
+A repository for Android resources 
+
 
 
 ## License
