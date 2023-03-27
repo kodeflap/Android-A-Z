@@ -1,6 +1,16 @@
-A repository for Android resources 
+A 
+# 📱Android A-Z
 
-## Documentations
+A collection of android resources like tutorials, learning path, projects, blogs, Community etc.. which helps you in your android dev journey.
+
+
+
+## 📚 Documentations
+
+- [Android Official Guide](https://developer.android.com/guide)
+
+- [Material Guidelines](hhttps://m3.material.io/get-started)
+
 
 ## Blogs
 
