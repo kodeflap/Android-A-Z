@@ -1,18 +1,26 @@
-A 
 # 📱Android A-Z
 
-A collection of android resources like tutorials, learning path, projects, blogs, Community etc.. which helps you in your android dev journey.
-
-
+This is a special repository which comes with handful collection of resources helpful in your android dev jouney. 
 
 ## 📚 Documentations
-
+#### Android
 - [Android Official Guide](https://developer.android.com/guide)
+- [Material Guidelines](https://m3.material.io/get-started)
 
-- [Material Guidelines](hhttps://m3.material.io/get-started)
+#### Kotlin
+- []()
+#### Jetpack compose
+- []()
+
+#### Firebase
+- []()
+
+#### 
+- []()
 
 
 ## Blogs
+- []()
 
 ## Community
 
