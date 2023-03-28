@@ -2,22 +2,44 @@
 
 This is a special repository which comes with handful collection of resources helpful in your android dev jouney. 
 
-## 📚 Documentations
-#### Android
-- [Android Official Guide](https://developer.android.com/guide)
-- [Material Guidelines](https://m3.material.io/get-started)
+## 📚 Resources
 
-#### Kotlin
-- []()
-#### Jetpack compose
-- []()
 
-#### Firebase
-- []()
-
-#### 
-- []()
-
+<table>
+    <tr>
+        <td> </td>
+        <td> Guides </td>
+        <td> Courses </td>
+    <tr>
+        <td>Kotlin</td>
+        <td><li><a href ="https://kotlinlang.org/">Kotlinlang.org</a>
+            <li><a href ="https://developer.android.com/kotlin/first">Kotlin for Android Guide</a></td>
+        <td><li><a href ="https://play.kotlinlang.org/byExample/01_introduction/01_Hello%20world">Kotlin Tutorials from Kotlinlang.org</a>
+        <li><a href ="https://developer.android.com/courses/android-basics-kotlin/course"> Android Developer Android Basics in Kotlin</td>
+    </tr>
+      <tr>
+        <td>Android</td>
+        <td><a href ="https://developer.android.com/guide">Android Developers official guide</a>
+        <td><li><a href ="https://developer.android.com/courses/android-development-with-kotlin/course?utm_source=dac&utm_medium=website&utm_campaign=edu">Android Development with kotlin course</a>
+          <li><a href="https://developer.android.com/courses/fundamentals-training/toc-v2">Android fundamentals codelabs</a></td>
+    </tr>
+     <tr>
+        <td>Jetpack Compose</td>
+        <td><a href ="">Android Developers official Jetpack Compose guide</a>
+        <td><li><a href ="https://developer.android.com/courses/android-basics-compose/course">Android Basics with Compose</a>
+         <li><a href="https://developer.android.com/courses/jetpack-compose/course">Jetpack Compose for Android Developers</td>
+    </tr>
+     <tr>
+         <td>Material Guidelines</td>
+         <td><a href="https://m3.material.io/get-started"/>Official Material guidelines documentation</a></td>
+         <td></td>
+    </tr>
+     <tr>
+         <td>Firebase</td>
+         <td><a href="https://firebase.google.com/docs/guides"/>Official Firebase documentation</a></td>
+         <td><a href="https://firebase.google.com/codelabs/firebase-android?authuser=0&hl=en#0">Firebase Codelabs</a></td>
+    </tr>
+</table>
 
 ## Blogs
 - []()
