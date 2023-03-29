@@ -10,6 +10,15 @@ This is a special repository which comes with handful collection of resources he
         <td> </td>
         <td> Guides </td>
         <td> Courses & Tutorials</td>
+    </tr>
+    
+    <tr>
+      <td>Platform</td>
+      <td><li><a href ="https://developer.android.com/studio">Android Studio</a>
+            <li><a href ="https://www.jetbrains.com/idea/guide/">IntelliJ</a></td>
+      <td></td>
+    </tr>
+    
     <tr>
         <td>Kotlin</td>
         <td><li><a href ="https://kotlinlang.org/">Kotlinlang.org</a>
