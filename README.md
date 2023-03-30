@@ -18,10 +18,25 @@ This is a special repository which comes with handful collection of resources he
     
 |Type||
 |:----|:----|
-|Image Loading | <li> [Glide](https://bumptech.github.io/glide/) <br><li> [Picasso](https://square.github.io/picasso/) <br><li> [Coil](https://coil-kt.github.io/coil/)
+|Image Loading | <li> [Glide](https://bumptech.github.io/glide/) <br><li> [Picasso](https://square.github.io/picasso/) <br><li> [Coil](https://coil-kt.github.io/coil/)|
+|Networking | <li> |
+|Dependency Injection | <li> |
+|Media Player | <li> |
+|Animations | <li> |
+|UI| <li> |
+|Testing | <li> |
 
 
 ## Projects
+|Type||
+|:----|:----|
+| | <li> |
+|| <li> |
+|| <li> |
+|| <li> |
+|| <li> |
+|| <li> |
+|| <li> |
 
 ## Blogs
 
