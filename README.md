@@ -13,7 +13,15 @@ This is a special repository which comes with handful collection of resources he
 |Jetpack Compose|<li>[Android Developers official Jetpack Compose guide](https://developer.android.com/jetpack/compose/documentation)| <li> [Android Basics with Compose](https://developer.android.com/courses/android-basics-compose/course) <br> <li> [Jetpack Compose for Android Developers](https://developer.android.com/courses/jetpack-compose/course) <br> <li>[Jetpack compose tutorial](https://developer.android.com/jetpack/compose/tutorial)|
 |Material Guidelines|<li>[Official Material guidelines documentation](https://m3.material.io/get-started) <br> <li>[Jetpack Compose- Material Design 3](https://m3.material.io/develop/android/jetpack-compose)| |
 |Firebase|<li>[Official Firebase documentation](https://firebase.google.com/docs/guides)|<li>[Firebase Codelabs](https://firebase.google.com/codelabs/firebase-android?authuser=0&hl=en#0)|
+    
+## Libraries
+    
+|Type||
+|:----|:----|
+|Image Loading | <li> [Glide](https://bumptech.github.io/glide/) <br><li> [Picasso](https://square.github.io/picasso/) <br><li> [Coil](https://coil-kt.github.io/coil/)
 
+
+## Projects
 
 ## Blogs
 
@@ -38,14 +46,10 @@ This is a special repository which comes with handful collection of resources he
 
 ## Community
 
-- []
+- [Google Developer Community](https://developers.google.com/community/gdg)
 - [Kodeco community](https://www.kodeco.com/community)
-
-## Projects
-
-## Libraries
-
-
+    
+---------------------------------------
 
 ## License
 
