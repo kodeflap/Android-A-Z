@@ -16,17 +16,18 @@ This is a special repository which comes with handful collection of resources he
     
 ## Libraries
     
-|Type||
-|:----|:----|
-|Image Loading | <li> [Glide](https://bumptech.github.io/glide/) <br><li> [Picasso](https://square.github.io/picasso/) <br><li> [Coil](https://coil-kt.github.io/coil/) <br> <li>[Fresco](https://frescolib.org/)|
-|Networking | <li> [Retrofit](https://square.github.io/retrofit/) <br> <li>|
-|Dependency Injection | <li> [Dagger](https://dagger.dev/)<br> <li> [Hilt](https://dagger.dev/hilt/)|
-|Media Player | <li> [ExoPlayer](https://github.com/google/ExoPlayer)|
-|JSON | <li> [Gson](https://github.com/google/gson) <br> <li> [Moshi](https://github.com/square/moshi)|
-|Database Helpers | <li> [Room](https://developer.android.com/training/data-storage/room) |
-|Animations | <li> <li> [Lottie](https://lottiefiles.com/)|
-|UI| <li> [Chart](https://github.com/PhilJay/MPAndroidChart)|
-|Testing | <li> [JUnit](https://junit.org/junit5/docs/current/user-guide/) <br> <li>[Espresso](https://developer.android.com/training/testing/espresso/index.html) <br> <li> [Mockito](https://site.mockito.org/)|
+|Types||||
+|:--------------------|:---------------|:---------------|:------------------------|
+|Image Loading | | |<li> [Glide](https://bumptech.github.io/glide/) <br><li> [Picasso](https://square.github.io/picasso/) <br><li> [Coil](https://coil-kt.github.io/coil/) <br> <li>[Fresco](https://frescolib.org/)|
+|Networking | | |<li> [Retrofit](https://square.github.io/retrofit/)|
+|Dependency Injection | | |<li> [Dagger](https://dagger.dev/)<br> <li> [Hilt](https://dagger.dev/hilt/)|
+|Media Player | | |<li> [ExoPlayer](https://github.com/google/ExoPlayer)|
+|JSON | | |<li> [Gson](https://github.com/google/gson) <br> <li> [Moshi](https://github.com/square/moshi)|
+|Database Helpers | | |<li> [Room](https://developer.android.com/training/data-storage/room) |
+|Animations | | |<li> [Lottie](https://lottiefiles.com/)|
+|UI| <li> Jetpack Compose <br> <li> Chart| <li> Tooltip| <li>[Balloon](https://github.com/skydoves/Balloon) <br> <li>[MPAndroidChart](https://github.com/PhilJay/MPAndroidChart)|
+|Testing | | |<li> [JUnit](https://junit.org/junit5/docs/current/user-guide/) <br> <li>[Espresso](https://developer.android.com/training/testing/espresso/index.html) <br> <li> [Mockito](https://site.mockito.org/)|
+|Documentation | | |<li>[Spotless](https://github.com/diffplug/spotless)|
 
 
 ## Projects
