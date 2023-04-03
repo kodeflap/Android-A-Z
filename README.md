@@ -18,10 +18,10 @@ This is a special repository which comes with handful collection of resources he
     
 |Type||
 |:----|:----|
-|Image Loading | <li> [Glide](https://bumptech.github.io/glide/) <br><li> [Picasso](https://square.github.io/picasso/) <br><li> [Coil](https://coil-kt.github.io/coil/)|
-|Networking | <li> |
-|Dependency Injection | <li> |
-|Media Player | <li> |
+|Image Loading | <li> [Glide](https://bumptech.github.io/glide/) <br><li> [Picasso](https://square.github.io/picasso/) <br><li> [Coil](https://coil-kt.github.io/coil/) <br> <li>[Fresco](https://frescolib.org/)|
+|Networking | <li> [Retrofit](https://square.github.io/retrofit/) <br> <li>|
+|Dependency Injection | <li> [Dagger](https://dagger.dev/)|
+|Media Player | <li> [ExoPlayer](https://github.com/google/ExoPlayer)|
 |Animations | <li> |
 |UI| <li> |
 |Testing | <li> |
