@@ -33,12 +33,7 @@ This is a special repository which comes with handful collection of resources he
 ## Projects
 |Type||
 |:----|:----|
-| | <li> |
-|| <li> |
-|| <li> |
-|| <li> |
-|| <li> |
-|| <li> |
+| Jetpack Compose| <li> [Now In Android](https://github.com/android/nowinandroid) <br> <li> [Jetnews](https://github.com/android/compose-samples/tree/main/JetNews) <br> <li> [Jetchat](https://github.com/android/compose-samples/tree/main/Jetchat) <br><li> [Rally](https://github.com/android/compose-samples/tree/main/Rally)|
 || <li> |
 
 ## Blogs
