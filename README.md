@@ -33,8 +33,14 @@ This is a special repository which comes with handful collection of resources he
 ## Projects
 |Type||
 |:----|:----|
-| Jetpack Compose| <li> [Now In Android](https://github.com/android/nowinandroid) <br> <li> [Jetnews](https://github.com/android/compose-samples/tree/main/JetNews) <br> <li> [Jetchat](https://github.com/android/compose-samples/tree/main/Jetchat) <br><li> [Rally](https://github.com/android/compose-samples/tree/main/Rally)|
-|| <li> |
+| Jetpack Compose| <li> [Now In Android](https://github.com/android/nowinandroid) <br> <li> [Jetnews](https://github.com/android/compose-samples/tree/main/JetNews) <br> <li> [Jetchat](https://github.com/android/compose-samples/tree/main/Jetchat) <br><li> [Rally](https://github.com/android/compose-samples/tree/main/Rally) <br> <li>[Jetcaster](https://github.com/android/compose-samples/tree/main/Jetcaster) <br> <li> [JetSurvey](https://github.com/android/compose-samples/tree/main/Jetsurvey) <br> <li> [Crane](https://github.com/android/compose-samples/tree/main/Crane)<br><li>[owl](https://github.com/android/compose-samples/tree/main/Owl)<br><li>[Replay](https://github.com/android/compose-samples/tree/main/Reply)<br><li>[JetLagged](https://github.com/android/compose-samples/tree/main/JetLagged)<br><li>[Jetpack compose tutorials](https://github.com/SmartToolFactory/Jetpack-Compose-Tutorials)|
+    
+    
+## APIs
+|Type||
+|:----|:----|
+| Entertainment| <li> [Spotify](https://developer.spotify.com/documentation/web-api) <br> <li> [OMDb API](omdbapi.com) <br><li>[IMDB](https://developer.imdb.com/documentation/api-documentation/?ref_=/documentation/_PAGE_BODY)|
+|Weather | <li> [Open Weather](https://openweathermap.org/api)|
 
 ## Blogs
 
