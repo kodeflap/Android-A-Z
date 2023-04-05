@@ -37,11 +37,14 @@ This is a special repository which comes with handful collection of resources he
     
     
 ## APIs
+    
 |Type||
 |:----|:----|
-| Entertainment| <li> [Spotify](https://developer.spotify.com/documentation/web-api) <br> <li> [OMDb API](omdbapi.com) <br><li>[IMDB](https://developer.imdb.com/documentation/api-documentation/?ref_=/documentation/_PAGE_BODY)|
+|AI | <li> [OpenAI(ChatGPT)](https://openai.com/blog/introducing-chatgpt-and-whisper-apis)|
+| Entertainment| <li> [Spotify](https://developer.spotify.com/documentation/web-api) <br> <li> [OMDb API](omdbapi.com) <br><li>[IMDB](https://developer.imdb.com/documentation/api-documentation/?ref_=/documentation/_PAGE_BODY) <br><li>[Youtube API](https://developers.google.com/youtube/?ref=apilist.fun)<br><li>[SoundCloud](https://developers.soundcloud.com/?ref=apilist.fun)<br><li>[]()|
 |Weather | <li> [Open Weather](https://openweathermap.org/api)|
-
+|Payment | <li>[Stripe](https://stripe.com/en-in?ref=apilist.fun)<br><li>[PayPal](https://developer.paypal.com/home)<br><li>[Mastercard](https://developer.mastercard.com/apis?ref=apilist.fun)<br><li>[Square API](https://developer.squareup.com/us/en?ref=apilist.fun)|
+    
 ## Blogs
 
 - [Android Developer Blog](https://android-developers.googleblog.com/)
