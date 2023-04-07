@@ -44,6 +44,9 @@ This is a special repository which comes with handful collection of resources he
 | Entertainment| <li> [Spotify](https://developer.spotify.com/documentation/web-api) <br> <li> [OMDb API](omdbapi.com) <br><li>[IMDB](https://developer.imdb.com/documentation/api-documentation/?ref_=/documentation/_PAGE_BODY) <br><li>[Youtube API](https://developers.google.com/youtube/?ref=apilist.fun)<br><li>[SoundCloud](https://developers.soundcloud.com/?ref=apilist.fun)<br><li>[]()|
 |Weather | <li> [Open Weather](https://openweathermap.org/api)|
 |Payment | <li>[Stripe](https://stripe.com/en-in?ref=apilist.fun)<br><li>[PayPal](https://developer.paypal.com/home)<br><li>[Mastercard](https://developer.mastercard.com/apis?ref=apilist.fun)<br><li>[Square API](https://developer.squareup.com/us/en?ref=apilist.fun)|
+ |Quiz | <li>[Trivia API](https://the-trivia-api.com/)|
+ |Food | <li>[TheMealDB](https://www.themealdb.com/api.php)|
+ |Books | <li>[Google Books API](https://developers.google.com/books/docs/v1/reference/)<br><li>[Marvel](https://developer.marvel.com/documentation/getting_started)|
     
 ## Blogs
 
