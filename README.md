@@ -19,8 +19,8 @@ This is a special repository which comes with handful collection of resources he
 |Types||||
 |:--------------------|:---------------|:---------------|:------------------------|
 |Image Loading | | |<li> [Glide](https://bumptech.github.io/glide/) <br><li> [Picasso](https://square.github.io/picasso/) <br><li> [Coil](https://coil-kt.github.io/coil/) <br> <li>[Fresco](https://frescolib.org/)|
-|Networking | | |<li> [Retrofit](https://square.github.io/retrofit/)|
-|Dependency Injection | | |<li> [Dagger](https://dagger.dev/)<br> <li> [Hilt](https://dagger.dev/hilt/)|
+|Networking | | |<li> [Retrofit](https://square.github.io/retrofit/) <br><li>[Ktor](https://ktor.io/docs/welcome.html)|
+|Dependency Injection | | |<li> [Dagger2](https://dagger.dev/)<br> <li> [Hilt](https://dagger.dev/hilt/) <br><li>[Koin](https://insert-koin.io/)|
 |Media Player | | |<li> [ExoPlayer](https://github.com/google/ExoPlayer)|
 |JSON | | |<li> [Gson](https://github.com/google/gson) <br> <li> [Moshi](https://github.com/square/moshi)|
 |Database Helpers | | |<li> [Room](https://developer.android.com/training/data-storage/room) |
@@ -73,6 +73,7 @@ This is a special repository which comes with handful collection of resources he
 
 - [Android developer podcast](https://developer.android.com/podcasts)
 - [Kodeco podcast](https://www.kodeco.com/podcast)
+- [Fragmented Podcast](https://fragmentedpodcast.com/)
 
 ## Community
 
