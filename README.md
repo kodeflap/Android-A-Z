@@ -28,6 +28,7 @@ This is a special repository which comes with handful collection of resources he
 |UI| <li> Jetpack Compose <br> <li> Chart| <li> Tooltip| <li>[Balloon](https://github.com/skydoves/Balloon) <br> <li>[MPAndroidChart](https://github.com/PhilJay/MPAndroidChart)|
 |Testing | | |<li> [JUnit](https://junit.org/junit5/docs/current/user-guide/) <br> <li>[Espresso](https://developer.android.com/training/testing/espresso/index.html) <br> <li> [Mockito](https://site.mockito.org/)|
 |Documentation | | |<li>[Spotless](https://github.com/diffplug/spotless)|
+|Memory Leak Detection|<li> [LeakCanary](https://square.github.io/leakcanary/)|
 
 
 ## Projects
