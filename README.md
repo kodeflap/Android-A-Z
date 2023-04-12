@@ -14,30 +14,33 @@ This is a special repository which comes with handful collection of resources he
 |Material Guidelines|<li>[Official Material guidelines documentation](https://m3.material.io/get-started) <br> <li>[Jetpack Compose- Material Design 3](https://m3.material.io/develop/android/jetpack-compose)| |
 |Firebase|<li>[Official Firebase documentation](https://firebase.google.com/docs/guides)|<li>[Firebase Codelabs](https://firebase.google.com/codelabs/firebase-android?authuser=0&hl=en#0)|
     
-## Libraries
+## 📚 Libraries
     
 |Types||||
 |:--------------------|:---------------|:---------------|:------------------------|
-|Image Loading | | |<li> [Glide](https://bumptech.github.io/glide/) <br><li> [Picasso](https://square.github.io/picasso/) <br><li> [Coil](https://coil-kt.github.io/coil/) <br> <li>[Fresco](https://frescolib.org/)|
+|Image Loading | | |<li> [Glide](https://bumptech.github.io/glide/) <br><li> [Picasso](https://square.github.io/picasso/) <br><li> [Coil](https://coil-kt.github.io/coil/) <br> <li>[Fresco](https://frescolib.org/)<br><li>[Landscapist](https://github.com/skydoves/landscapist)|
 |Networking | | |<li> [Retrofit](https://square.github.io/retrofit/) <br><li>[Ktor](https://ktor.io/docs/welcome.html)|
-|Dependency Injection | | |<li> [Dagger2](https://dagger.dev/)<br> <li> [Hilt](https://dagger.dev/hilt/) <br><li>[Koin](https://insert-koin.io/)|
+|Dependency Injection | | |<li> [Dagger2](https://dagger.dev/)<br> <li> [Hilt](https://dagger.dev/hilt/) <br><li>[Koin](https://insert-koin.io/)<br><li>[Kodein](https://kosi-libs.org/kodein/7.19/index.html)<br><li>[anvil](https://github.com/square/anvil)|
 |Media Player | | |<li> [ExoPlayer](https://github.com/google/ExoPlayer)|
 |JSON | | |<li> [Gson](https://github.com/google/gson) <br> <li> [Moshi](https://github.com/square/moshi)|
 |Database Helpers | | |<li> [Room](https://developer.android.com/training/data-storage/room) |
 |Animations | | |<li> [Lottie](https://lottiefiles.com/)|
-|UI| <li> Jetpack Compose <br> <li> Chart| <li> Tooltip| <li>[Balloon](https://github.com/skydoves/Balloon) <br> <li>[MPAndroidChart](https://github.com/PhilJay/MPAndroidChart)|
+|UI| <li> Chart <br> <li> Jetpack Compose|<br> <li> Tooltip| <li>[Balloon](https://github.com/skydoves/Balloon) <br> <li>[MPAndroidChart](https://github.com/PhilJay/MPAndroidChart)|
 |Testing | | |<li> [JUnit](https://junit.org/junit5/docs/current/user-guide/) <br> <li>[Espresso](https://developer.android.com/training/testing/espresso/index.html) <br> <li> [Mockito](https://site.mockito.org/)|
 |Tools |<li>Documentation <br> <li>Code Formatter | |<li>[Spotless](https://github.com/diffplug/spotless)<br><li>[Ktlint](https://pinterest.github.io/ktlint/)<br><li>[detekt](https://detekt.dev/docs/intro)|
-|Memory Leak Detection|<li> [LeakCanary](https://square.github.io/leakcanary/)|
+|I/O | | |<li>[Okio](https://square.github.io/okio/)|
+|Logger | | | <li>[Timber](https://github.com/square/anvil)|
+|Runtime Permission| | |<li>[EasyPermission](https://firebaseopensource.com/projects/googlesamples/easypermissions/)|
+|Memory Leak Detection| | |<li> [LeakCanary](https://square.github.io/leakcanary/)|
 
 
-## Projects
+## 📓 Projects
 |Type||
-|:----|:----|
-| Jetpack Compose| <li> [Now In Android](https://github.com/android/nowinandroid) <br> <li> [Jetnews](https://github.com/android/compose-samples/tree/main/JetNews) <br> <li> [Jetchat](https://github.com/android/compose-samples/tree/main/Jetchat) <br><li> [Rally](https://github.com/android/compose-samples/tree/main/Rally) <br> <li>[Jetcaster](https://github.com/android/compose-samples/tree/main/Jetcaster) <br> <li> [JetSurvey](https://github.com/android/compose-samples/tree/main/Jetsurvey) <br> <li> [Crane](https://github.com/android/compose-samples/tree/main/Crane)<br><li>[owl](https://github.com/android/compose-samples/tree/main/Owl)<br><li>[Replay](https://github.com/android/compose-samples/tree/main/Reply)<br><li>[JetLagged](https://github.com/android/compose-samples/tree/main/JetLagged)<br><li>[Jetpack compose tutorials](https://github.com/SmartToolFactory/Jetpack-Compose-Tutorials)|
+|:----|:---|
+| Jetpack Compose | <li> [Now In Android](https://github.com/android/nowinandroid) <br> <li> [Jetnews](https://github.com/android/compose-samples/tree/main/JetNews) <br> <li> [Jetchat](https://github.com/android/compose-samples/tree/main/Jetchat) <br><li> [Rally](https://github.com/android/compose-samples/tree/main/Rally) <br> <li>[Jetcaster](https://github.com/android/compose-samples/tree/main/Jetcaster) <br> <li> [JetSurvey](https://github.com/android/compose-samples/tree/main/Jetsurvey) <br> <li> [Crane](https://github.com/android/compose-samples/tree/main/Crane)<br><li>[owl](https://github.com/android/compose-samples/tree/main/Owl)<br><li>[Replay](https://github.com/android/compose-samples/tree/main/Reply)<br><li>[JetLagged](https://github.com/android/compose-samples/tree/main/JetLagged)<br><li>[Jetpack compose tutorials](https://github.com/SmartToolFactory/Jetpack-Compose-Tutorials)|
     
     
-## APIs
+## ⚙ APIs
     
 |Type||
 |:----|:----|
@@ -54,7 +57,7 @@ This is a special repository which comes with handful collection of resources he
  |Chat | <li>[Google Chat API](https://developers.google.com/chat/api/reference/rest)<br> <li>[GetStream Chat API](https://getstream.io/chat/docs/) |
  |Ecommerce |<li>[Shopify](https://shopify.dev/docs/api)<br><li>[Amazon API](https://aws.amazon.com/api-gateway/)<br><li>[ebay](https://developer.ebay.com/develop/apis)<br><li>[Google Content API for Shopping](https://developers.google.com/shopping-content/guides/quickstart)|
     
-## Blogs
+## 📝 Blogs
 
 - [Android Developer Blog](https://android-developers.googleblog.com/)
 - [Android Developers](https://medium.com/androiddevelopers)
@@ -63,27 +66,34 @@ This is a special repository which comes with handful collection of resources he
 - [mindorks](https://blog.mindorks.com/)
 - [Kodeco](https://www.kodeco.com/android/articles)
 
-## Newsletters
+## 📰 Newsletters
 
 - [Android Developer Newsletter](https://developer.android.com/newsletter)
 - [Android Weekly](https://androidweekly.net/)
 - [Kotlin Weekly](http://www.kotlinweekly.net/)
 - [Kodeco](https://help.kodeco.com/how-can-i-sign-up-for-your-newsletter)
 
-## Podcast
+## 🔊 Podcast
 
 - [Android developer podcast](https://developer.android.com/podcasts)
 - [Kodeco podcast](https://www.kodeco.com/podcast)
 - [Fragmented Podcast](https://fragmentedpodcast.com/)
 
-## Community
+## 👩‍ 💻Community
 
 - [Google Developer Community](https://developers.google.com/community/gdg)
 - [Kodeco community](https://www.kodeco.com/community)
     
 ---------------------------------------
+     
+## 🙋 Want to contribute?
+     
+My keen intention of this project is to make complete resource helpful for android devs. If you have more ideas for growing this resource collection you are free to make contributions. Check out [CONTRIBUTING.md](https://github.com/kodeflap/Android-A-Z/blob/main/CONTRIBUTING.md) for more details. 
+## Is this Repo useful?
+     
+If you found this repository useful join 🌠[stargazers](https://github.com/kodeflap/Android-A-Z/stargazers) for this project. If you like to see more contents related to android you can also follow me in [github](https://github.com/kodeflap) and [medium](https://medium.com/@KodeFlap) 😃
 
-## License
+## 🗞️ License
 
 Copyright [2023] [kodeflap]
 
