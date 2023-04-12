@@ -66,7 +66,7 @@ This is a special repository which comes with handful collection of resources he
 - [mindorks](https://blog.mindorks.com/)
 - [Kodeco](https://www.kodeco.com/android/articles)
 
-## 📰 Newsletters
+## ✉ Newsletters
 
 - [Android Developer Newsletter](https://developer.android.com/newsletter)
 - [Android Weekly](https://androidweekly.net/)
@@ -79,7 +79,7 @@ This is a special repository which comes with handful collection of resources he
 - [Kodeco podcast](https://www.kodeco.com/podcast)
 - [Fragmented Podcast](https://fragmentedpodcast.com/)
 
-## 👩‍ 💻Community
+## 👩‍💻 Community
 
 - [Google Developer Community](https://developers.google.com/community/gdg)
 - [Kodeco community](https://www.kodeco.com/community)
@@ -89,11 +89,12 @@ This is a special repository which comes with handful collection of resources he
 ## 🙋 Want to contribute?
      
 My keen intention of this project is to make complete resource helpful for android devs. If you have more ideas for growing this resource collection you are free to make contributions. Check out [CONTRIBUTING.md](https://github.com/kodeflap/Android-A-Z/blob/main/CONTRIBUTING.md) for more details. 
-## Is this Repo useful?
      
-If you found this repository useful join 🌠[stargazers](https://github.com/kodeflap/Android-A-Z/stargazers) for this project. If you like to see more contents related to android you can also follow me in [github](https://github.com/kodeflap) and [medium](https://medium.com/@KodeFlap) 😃
+## ✨Is this Repo useful?
+     
+If you found this repository useful join 🌟[stargazers](https://github.com/kodeflap/Android-A-Z/stargazers) for this project. If you like to see more contents related to android you can also follow me in [github](https://github.com/kodeflap) and [medium](https://medium.com/@KodeFlap) 😃
 
-## 🗞️ License
+## 📜 License
 
 Copyright [2023] [kodeflap]
 
