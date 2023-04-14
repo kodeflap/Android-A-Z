@@ -46,7 +46,7 @@ This is a special repository which comes with handful collection of resources he
 |:----|:----|
 |AI | <li> [OpenAI(ChatGPT)](https://openai.com/blog/introducing-chatgpt-and-whisper-apis)|
 | Entertainment| <li> [Spotify](https://developer.spotify.com/documentation/web-api) <br> <li> [OMDb API](omdbapi.com) <br><li>[IMDB](https://developer.imdb.com/documentation/api-documentation/?ref_=/documentation/_PAGE_BODY) <br><li>[Youtube API](https://developers.google.com/youtube/?ref=apilist.fun)<br><li>[SoundCloud](https://developers.soundcloud.com/?ref=apilist.fun)<br><li>[YouTube Data API](https://developers.google.com/youtube/v3)|
-|Weather | <li> [Open Weather](https://openweathermap.org/api)<br><li>[Weatherbit](https://www.weatherbit.io/)<br><li>[MeteoSource](https://www.meteosource.com/)<br><li>[Meteostat](https://dev.meteostat.net/) <br><li>[Sunrise Sunset Times](https://rapidapi.com/Macca895/api/sunrise-sunset-times) <br><li>[]()|
+|Weather | <li> [Open Weather](https://openweathermap.org/api)<br><li>[Weatherbit](https://www.weatherbit.io/)<br><li>[MeteoSource](https://www.meteosource.com/)<br><li>[Meteostat](https://dev.meteostat.net/) <br><li>[Sunrise Sunset Times](https://rapidapi.com/Macca895/api/sunrise-sunset-times) <br><li>[Weather API](https://www.weatherapi.com/) <br><li>[]()|
 |Payment | <li>[Stripe](https://stripe.com/en-in?ref=apilist.fun)<br><li>[PayPal](https://developer.paypal.com/home)<br><li>[Mastercard](https://developer.mastercard.com/apis?ref=apilist.fun)<br><li>[Square API](https://developer.squareup.com/us/en?ref=apilist.fun)|
  |Quiz | <li>[Trivia API](https://the-trivia-api.com/)|
  |Food | <li>[TheMealDB](https://www.themealdb.com/api.php)<br><li>[Spoonacular API](https://spoonacular.com/food-api)<br><li>[Nutritionix](https://www.nutritionix.com/business/api)<br><li>[Nutritics](https://www.nutritics.com/en/services/api?)<br><li>[LogMeal](https://www.logmeal.es/api)|
@@ -57,6 +57,7 @@ This is a special repository which comes with handful collection of resources he
  |Chat | <li>[Google Chat API](https://developers.google.com/chat/api/reference/rest)<br> <li>[GetStream Chat API](https://getstream.io/chat/docs/) |
  |Ecommerce |<li>[Shopify](https://shopify.dev/docs/api)<br><li>[Amazon API](https://aws.amazon.com/api-gateway/)<br><li>[ebay](https://developer.ebay.com/develop/apis)<br><li>[Google Content API for Shopping](https://developers.google.com/shopping-content/guides/quickstart)|
  | Language Translation | <li>[Google Translate](https://cloud.google.com/translate/docs/overview)|
+ | Social | <li>[Facebook](https://developers.facebook.com/docs/video-api/overview) <br><li>[Discord](https://discord.com/developers/docs/intro)<br><li>[Instagram](https://developers.facebook.com/docs/instagram-api/)<br><li>[LinkedIn](https://learn.microsoft.com/en-us/linkedin/)<br><li>[Printerest](https://developers.pinterest.com/docs/api/v5/)<br><li>[Reddit](https://www.reddit.com/dev/api/)<br><li>[Telegram](https://core.telegram.org/)<br><li>[Twitter](https://developer.twitter.com/en)<br><li>{Youtube](https://developers.google.com/youtube/v3)|
     
 ## 📝 Blogs
 
