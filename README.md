@@ -23,7 +23,7 @@ This is a special repository which comes with handful collection of resources he
 |Dependency Injection | | |<li> [Dagger2](https://dagger.dev/)<br> <li> [Hilt](https://dagger.dev/hilt/) <br><li>[Koin](https://insert-koin.io/)<br><li>[Kodein](https://kosi-libs.org/kodein/7.19/index.html)<br><li>[anvil](https://github.com/square/anvil)|
 |Media Player | | |<li> [ExoPlayer](https://github.com/google/ExoPlayer)|
 |JSON | | |<li> [Gson](https://github.com/google/gson) <br> <li> [Moshi](https://github.com/square/moshi)|
-|Database Helpers | | |<li> [Room](https://developer.android.com/training/data-storage/room) |
+|Database Helpers | | |<li> [Room](https://developer.android.com/training/data-storage/room) <br><li>[Firebase](https://firebase.google.com/docs/android/setup) <br><li>[ObjectBox](https://objectbox.io/offline-first-mobile-database/) <br><li>[Realm](https://realm.io/) <br><li>[MongoDB](https://www.mongodb.com/)|
 |Animations | | |<li> [Lottie](https://lottiefiles.com/)|
 |UI| <li> Chart <br> <li> Jetpack Compose|<br> <li> Tooltip| <li>[Balloon](https://github.com/skydoves/Balloon) <br> <li>[MPAndroidChart](https://github.com/PhilJay/MPAndroidChart)|
 |Testing | | |<li> [JUnit](https://junit.org/junit5/docs/current/user-guide/) <br> <li>[Espresso](https://developer.android.com/training/testing/espresso/index.html) <br> <li> [Mockito](https://site.mockito.org/)|
