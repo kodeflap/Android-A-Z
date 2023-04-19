@@ -28,7 +28,7 @@ This is a special repository which comes with handful collection of resources he
 |UI| <li> Chart | <li>[MPAndroidChart](https://github.com/PhilJay/MPAndroidChart)|
 |Jetpack Compose|<br> <li> Tooltip <br><li> System UI <br><li> Drawables <br><li> Navigation <br><li>View <br><li> Permission| <li>[Balloon](https://github.com/skydoves/Balloon)<br><li>[System UI Controller](https://google.github.io/accompanist/systemuicontroller/) [Drawable Painter](https://google.github.io/accompanist/drawablepainter/))<br><li>[Navigation Animation](https://google.github.io/accompanist/navigation-animation/) <br><li>[Navigation Material](https://google.github.io/accompanist/navigation-material/)<br><li>[WebView](https://google.github.io/accompanist/web/)<br><li>[Permission](https://google.github.io/accompanist/permissions/)|
 |Testing | |<li> [JUnit](https://junit.org/junit5/docs/current/user-guide/) <br> <li>[Espresso](https://developer.android.com/training/testing/espresso/index.html) <br> <li> [Mockito](https://site.mockito.org/)|
-|Tools |<li>Documentation <br> <li>Code Formatter | |<li>[Spotless](https://github.com/diffplug/spotless)<br><li>[Ktlint](https://pinterest.github.io/ktlint/)<br><li>[detekt](https://detekt.dev/docs/intro)|
+|Tools |<li>Documentation <br> <li>Code Formatter | <li>[Spotless](https://github.com/diffplug/spotless)<br><li>[Ktlint](https://pinterest.github.io/ktlint/)<br><li>[detekt](https://detekt.dev/docs/intro)|
 |I/O | |<li>[Okio](https://square.github.io/okio/)|
 |Logger | | <li>[Timber](https://github.com/square/anvil)|
 |Runtime Permission| |<li>[EasyPermission](https://firebaseopensource.com/projects/googlesamples/easypermissions/)|
