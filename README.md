@@ -37,14 +37,17 @@ This is a special repository which comes with handful collection of resources he
 
 
 ## 📓 Projects
-|Type||
+|Type|||
 |:----|:---|:---|
 | Jetpack Compose | |<li> [Now In Android](https://github.com/android/nowinandroid) <br> <li> [Jetnews](https://github.com/android/compose-samples/tree/main/JetNews) <br> <li> [Jetchat](https://github.com/android/compose-samples/tree/main/Jetchat) <br><li> [Rally](https://github.com/android/compose-samples/tree/main/Rally) <br> <li>[Jetcaster](https://github.com/android/compose-samples/tree/main/Jetcaster) <br> <li> [JetSurvey](https://github.com/android/compose-samples/tree/main/Jetsurvey) <br> <li> [Crane](https://github.com/android/compose-samples/tree/main/Crane)<br><li>[owl](https://github.com/android/compose-samples/tree/main/Owl)<br><li>[Replay](https://github.com/android/compose-samples/tree/main/Reply)<br><li>[JetLagged](https://github.com/android/compose-samples/tree/main/JetLagged)|
 | App migration to Jetpack compose||<li>[Sunflower](https://github.com/android/sunflower/tree/compose)|
 | Chat-GPT | |<li>[Chatgpt-android](https://github.com/skydoves/chatgpt-android)|
-| Architecture|<li>Architecture components<br><li>MVVM | <li>[Architecture Components Samples](https://github.com/android/architecture-components-samples)<li>[Pokedex](https://github.com/skydoves/Pokedex)<br><li>[DisneyMotions](https://github.com/skydoves/DisneyMotions)|
+| Architecture|<li>Architecture components<br><li>MVVM <br><br><li>Templates| <li>[Architecture Components Samples](https://github.com/android/architecture-components-samples)<li>[Pokedex](https://github.com/skydoves/Pokedex)<br><li>[DisneyMotions](https://github.com/skydoves/DisneyMotions)<br><li>[Architecture templates](https://github.com/android/architecture-templates)|
 | Jetpack Compose Cookbooks ||<li>[Compose samples](https://github.com/android/compose-samples)<br><li>[SSComposeCookBook](https://github.com/SimformSolutionsPvtLtd/SSComposeCookBook) <br><li>[Jetpack compose tutorials](https://github.com/SmartToolFactory/Jetpack-Compose-Tutorials)|
- |Media|<li>Audio App|<li>[uamp](https://github.com/android/uamp)|
+|Media|<li>Audio App<br><li>Camera|<li>[uamp](https://github.com/android/uamp)<br><li>[Camera Samples](https://github.com/android/camera-samples)|
+|Kotlin Multi Platform| |<li>[Kotlin Muliti Platform Samples](https://github.com/android/kotlin-multiplatform-samples)|
+| Location||<li>[Location Samples](https://github.com/android/location-samples)|
+| Payment |<li> Google Play Billing|<li>[Play Billing Samples](https://github.com/android/play-billing-samples)|
     
     
 ## ⚙ APIs
