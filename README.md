@@ -38,12 +38,13 @@ This is a special repository which comes with handful collection of resources he
 
 ## 📓 Projects
 |Type||
-|:----|:---|
-| Jetpack Compose | <li> [Now In Android](https://github.com/android/nowinandroid) <br> <li> [Jetnews](https://github.com/android/compose-samples/tree/main/JetNews) <br> <li> [Jetchat](https://github.com/android/compose-samples/tree/main/Jetchat) <br><li> [Rally](https://github.com/android/compose-samples/tree/main/Rally) <br> <li>[Jetcaster](https://github.com/android/compose-samples/tree/main/Jetcaster) <br> <li> [JetSurvey](https://github.com/android/compose-samples/tree/main/Jetsurvey) <br> <li> [Crane](https://github.com/android/compose-samples/tree/main/Crane)<br><li>[owl](https://github.com/android/compose-samples/tree/main/Owl)<br><li>[Replay](https://github.com/android/compose-samples/tree/main/Reply)<br><li>[JetLagged](https://github.com/android/compose-samples/tree/main/JetLagged)|
-| App migration to Jetpack compose|<li>[Sunflower](https://github.com/android/sunflower/tree/compose)|
-| Chat-GPT | <li>[Chatgpt-android](https://github.com/skydoves/chatgpt-android)|
-| MVVM | <li>[Pokedex](https://github.com/skydoves/Pokedex)<br><li>[DisneyMotions](https://github.com/skydoves/DisneyMotions)|
-| Jetpack Compose Cookbooks |<li>[SSComposeCookBook](https://github.com/SimformSolutionsPvtLtd/SSComposeCookBook) <br><li>[Jetpack compose tutorials](https://github.com/SmartToolFactory/Jetpack-Compose-Tutorials) |
+|:----|:---|:---|
+| Jetpack Compose | |<li> [Now In Android](https://github.com/android/nowinandroid) <br> <li> [Jetnews](https://github.com/android/compose-samples/tree/main/JetNews) <br> <li> [Jetchat](https://github.com/android/compose-samples/tree/main/Jetchat) <br><li> [Rally](https://github.com/android/compose-samples/tree/main/Rally) <br> <li>[Jetcaster](https://github.com/android/compose-samples/tree/main/Jetcaster) <br> <li> [JetSurvey](https://github.com/android/compose-samples/tree/main/Jetsurvey) <br> <li> [Crane](https://github.com/android/compose-samples/tree/main/Crane)<br><li>[owl](https://github.com/android/compose-samples/tree/main/Owl)<br><li>[Replay](https://github.com/android/compose-samples/tree/main/Reply)<br><li>[JetLagged](https://github.com/android/compose-samples/tree/main/JetLagged)|
+| App migration to Jetpack compose||<li>[Sunflower](https://github.com/android/sunflower/tree/compose)|
+| Chat-GPT | |<li>[Chatgpt-android](https://github.com/skydoves/chatgpt-android)|
+| Architecture|<li>Architecture components<br><li>MVVM | <li>[Architecture Components Samples](https://github.com/android/architecture-components-samples)<li>[Pokedex](https://github.com/skydoves/Pokedex)<br><li>[DisneyMotions](https://github.com/skydoves/DisneyMotions)|
+| Jetpack Compose Cookbooks ||<li>[Compose samples](https://github.com/android/compose-samples)<br><li>[SSComposeCookBook](https://github.com/SimformSolutionsPvtLtd/SSComposeCookBook) <br><li>[Jetpack compose tutorials](https://github.com/SmartToolFactory/Jetpack-Compose-Tutorials)|
+ |Media|<li>Audio App|<li>[uamp](https://github.com/android/uamp)|
     
     
 ## ⚙ APIs
