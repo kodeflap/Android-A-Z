@@ -1,8 +1,8 @@
 # 📱Android A-Z
 
-This is a special repository containing several collections of resources to help you on your Android developer journey. These are some of the resources to help you keep up with the changing Android Tech Journey. This particular repository has some useful resources to help you level your Android journey.
+This is a special repository containing several collections of resources to help you on your Android developer journey. These are some of the resources to help you keep up with the changing Android Tech Journey. This particular repository has some useful resources to help you level your Android journey. From documentation to tools and libraries, there's so much out there that which will be helpful for developers. 
 
-Every body has their own source of getting updated in tech journey. If you like to share your personal resources you can always contribute. 
+This repository cover a range of resources, including guides, tutorials, blogs, podcast, newsletters and communities. This repository also contains some handy tools and libraries that can save you time and effort when developing your apps. Also some sample Projects which will be great for your references and to work with.
 
 ## 📚 Resources
 
