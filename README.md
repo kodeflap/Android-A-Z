@@ -50,6 +50,7 @@ This repository cover a range of resources, including guides, tutorials, blogs, 
 |Kotlin Multi Platform| |<li>[Kotlin Muliti Platform Samples](https://github.com/android/kotlin-multiplatform-samples)|
 | Location||<li>[Location Samples](https://github.com/android/location-samples)|
 | Payment |<li> Google Play Billing|<li>[Play Billing Samples](https://github.com/android/play-billing-samples)|
+| Gradle based |<li>(Gradle Recipes)[https://github.com/android/gradle-recipes]|
     
     
 ## ⚙ APIs
