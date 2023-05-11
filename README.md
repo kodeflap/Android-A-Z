@@ -1,4 +1,4 @@
-# 📱Android A-Z
+# 📱About Android A-Z
 
 This is a special repository containing several collections of resources to help you on your Android developer journey. These are some of the resources to help you keep up with the changing Android Tech Journey. This particular repository has some useful resources to help you level your Android journey. From documentation to tools and libraries, there's so much out there that which will be helpful for developers. 
 
@@ -9,12 +9,12 @@ This repository cover a range of resources, including guides, tutorials, blogs, 
 
 | |Guides|Courses & Tutorials|
 |:----|:----|:----|
-|Platform| <li>[Android Studio](https://developer.android.com/studio) <br> <li>[IntelliJ](https://www.jetbrains.com/idea/guide/)| |
-|Kotlin| <li> [Kotlinlang.org](https://kotlinlang.org/) <br> <li> [Kotlin for Android](https://developer.android.com/kotlin/first)| <li> [Kotlin Tutorials from Kotlinlang.org](https://play.kotlinlang.org/byExample/01_introduction/01_Hello%20world) <br> <li> [ Android Developer Android Basics in Kotlin        ](https://developer.android.com/courses/android-basics-kotlin/course) <br> <li>[Programiz Kotlin Tutorial](https://www.programiz.com/kotlin-programming) |
-| Android|<li>[Android Developers official guide](https://developer.android.com/guide)|  <li>[Android Development with kotlin course](https://developer.android.com/courses/android-development-with-kotlin/course?utm_source=dac&utm_medium=website&utm_campaign=edu) <br> <li>[Android fundamentals codelabs](https://developer.android.com/courses/fundamentals-training/toc-v2) <br> <li>[Vogella](https://www.vogella.com/tutorials/android.html)|
-|Jetpack Compose|<li>[Android Developers official Jetpack Compose guide](https://developer.android.com/jetpack/compose/documentation)| <li> [Android Basics with Compose](https://developer.android.com/courses/android-basics-compose/course) <br> <li> [Jetpack Compose for Android Developers](https://developer.android.com/courses/jetpack-compose/course) <br> <li>[Jetpack compose tutorial](https://developer.android.com/jetpack/compose/tutorial)|
-|Material Guidelines|<li>[Official Material guidelines documentation](https://m3.material.io/get-started) <br> <li>[Jetpack Compose- Material Design 3](https://m3.material.io/develop/android/jetpack-compose)| |
-|Firebase|<li>[Official Firebase documentation](https://firebase.google.com/docs/guides)|<li>[Firebase Codelabs](https://firebase.google.com/codelabs/firebase-android?authuser=0&hl=en#0)|
+|Platform| <ul><li>[Android Studio](https://developer.android.com/studio)<li>[IntelliJ](https://www.jetbrains.com/idea/guide/)</ul>| |
+|Kotlin|<ul> <li> [Kotlinlang.org](https://kotlinlang.org/) <li> [Kotlin for Android](https://developer.android.com/kotlin/first)</ul>| <ul><li> [Kotlin Tutorials from Kotlinlang.org](https://play.kotlinlang.org/byExample/01_introduction/01_Hello%20world) <li> [Android Developer Android Basics in Kotlin](https://developer.android.com/courses/android-basics-kotlin/course) <li>[Programiz Kotlin Tutorial](https://www.programiz.com/kotlin-programming)</ul> |
+| Android|<ul><li>[Android Developers official guide](https://developer.android.com/guide)</ul>|  <ul><li>[Android Development with kotlin course](https://developer.android.com/courses/android-development-with-kotlin/course?utm_source=dac&utm_medium=website&utm_campaign=edu)<li>[Android fundamentals codelabs](https://developer.android.com/courses/fundamentals-training/toc-v2) <li>[Vogella](https://www.vogella.com/tutorials/android.html)</ul>|
+|Jetpack Compose|<ul><li>[Android Developers official Jetpack Compose guide](https://developer.android.com/jetpack/compose/documentation)</ul>| <ul><li> [Android Basics with Compose](https://developer.android.com/courses/android-basics-compose/course) <li> [Jetpack Compose for Android Developers](https://developer.android.com/courses/jetpack-compose/course)<li>[Jetpack compose tutorial](https://developer.android.com/jetpack/compose/tutorial)</ul>|
+|Material Guidelines|<ul><li>[Official Material guidelines documentation](https://m3.material.io/get-started) <li>[Jetpack Compose- Material Design 3](https://m3.material.io/develop/android/jetpack-compose)</ul>| |
+|Firebase|<ul><li>[Official Firebase documentation](https://firebase.google.com/docs/guides)</ul>|<ul><li>[Firebase Codelabs](https://firebase.google.com/codelabs/firebase-android?authuser=0&hl=en#0)</ul>|
     
 ## 📚 Libraries
     
