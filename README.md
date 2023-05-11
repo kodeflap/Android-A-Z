@@ -20,22 +20,22 @@ This repository cover a range of resources, including guides, tutorials, blogs, 
     
 |Types|||
 |:--------------------|:---------------|:------------------------|
-|Image Loading | |<li> [Glide](https://bumptech.github.io/glide/) <br><li> [Picasso](https://square.github.io/picasso/) <br><li> [Coil](https://coil-kt.github.io/coil/) <br> <li>[Fresco](https://frescolib.org/)<br><li>[Landscapist](https://github.com/skydoves/landscapist)|
-|Networking |  |<li> [Retrofit](https://square.github.io/retrofit/) <br><li>[Ktor](https://ktor.io/docs/welcome.html)|
-|Dependency Injection |  |<li> [Dagger2](https://dagger.dev/)<br> <li> [Hilt](https://dagger.dev/hilt/) <br><li>[Koin](https://insert-koin.io/)<br><li>[Kodein](https://kosi-libs.org/kodein/7.19/index.html)<br><li>[anvil](https://github.com/square/anvil)|
-|Media Player |  |<li> [ExoPlayer](https://github.com/google/ExoPlayer)|
-|JSON | |<li> [Gson](https://github.com/google/gson) <br> <li> [Moshi](https://github.com/square/moshi)|
-|Database Helpers | |<li> [Room](https://developer.android.com/training/data-storage/room) <br><li>[Firebase](https://firebase.google.com/docs/android/setup) <br><li>[ObjectBox](https://objectbox.io/offline-first-mobile-database/) <br><li>[Realm](https://realm.io/) <br><li>[MongoDB](https://www.mongodb.com/)<br><li>[Appwrite](https://appwrite.io/)|
-|Animations | |<li> [Lottie](https://lottiefiles.com/)|
-|UI| <li> Chart | <li>[MPAndroidChart](https://github.com/PhilJay/MPAndroidChart)|
-|Jetpack Compose|<li> Color Picker <br> <li> Tooltip <br><li> System UI <br><li> Drawables <br><li> Navigation <br><li>View <br><li> Permission|<li>[Colorpicker-compose](https://github.com/skydoves/colorpicker-compose) <br> <li>[Balloon](https://github.com/skydoves/Balloon)<br><li>[System UI Controller](https://google.github.io/accompanist/systemuicontroller/) [Drawable Painter](https://google.github.io/accompanist/drawablepainter/))<br><li>[Navigation Animation](https://google.github.io/accompanist/navigation-animation/) <br><li>[Navigation Material](https://google.github.io/accompanist/navigation-material/)<br><li>[WebView](https://google.github.io/accompanist/web/)<br><li>[Permission](https://google.github.io/accompanist/permissions/)|
-|Testing | |<li> [JUnit](https://junit.org/junit5/docs/current/user-guide/) <br> <li>[Espresso](https://developer.android.com/training/testing/espresso/index.html) <br> <li> [Mockito](https://site.mockito.org/)|
-|Tools |<li>Documentation <br> <li>Code Formatter | <li>[Spotless](https://github.com/diffplug/spotless)<br><li>[Ktlint](https://pinterest.github.io/ktlint/)<br><li>[detekt](https://detekt.dev/docs/intro)|
-|I/O | |<li>[Okio](https://square.github.io/okio/)|
-|Logger | | <li>[Timber](https://github.com/square/anvil)|
-|Runtime Permission| |<li>[EasyPermission](https://firebaseopensource.com/projects/googlesamples/easypermissions/)|
-|Memory Leak Detection| |<li> [LeakCanary](https://square.github.io/leakcanary/)|
-|Map ||<li>[Google Map](https://developers.google.com/maps/documentation/android-sdk/utility/setup)|
+|Image Loading | |<ul><li> [Glide](https://bumptech.github.io/glide/)<li> [Picasso](https://square.github.io/picasso/) <li> [Coil](https://coil-kt.github.io/coil/)<li>[Fresco](https://frescolib.org/)<li>[Landscapist](https://github.com/skydoves/landscapist)</ul>|
+|Networking |  |<ul><li> [Retrofit](https://square.github.io/retrofit/) <li>[Ktor](https://ktor.io/docs/welcome.html)</ul>|
+|Dependency Injection |  |<ul><li> [Dagger2](https://dagger.dev/)<li> [Hilt](https://dagger.dev/hilt/) <li>[Koin](https://insert-koin.io/)<li>[Kodein](https://kosi-libs.org/kodein/7.19/index.html)<li>[anvil](https://github.com/square/anvil)</ul>|
+|Media Player |  |<ul><li> [ExoPlayer](https://github.com/google/ExoPlayer)</ul>|
+|JSON | |<ul><li> [Gson](https://github.com/google/gson)<li> [Moshi](https://github.com/square/moshi)</ul>|
+|Database Helpers | |<ul><li> [Room](https://developer.android.com/training/data-storage/room) <li>[Firebase](https://firebase.google.com/docs/android/setup) <li>[ObjectBox](https://objectbox.io/offline-first-mobile-database/) <li>[Realm](https://realm.io/) <li>[MongoDB](https://www.mongodb.com/)<li>[Appwrite](https://appwrite.io/)</ul>|
+|Animations | |<ul><li> [Lottie](https://lottiefiles.com/)</ul>|
+|UI| <ul><li> Chart </ul>| <ul><li>[MPAndroidChart](https://github.com/PhilJay/MPAndroidChart)</ul>|
+|Jetpack Compose|<ul><li> Color Picker <li> Tooltip <li> System UI <li> Drawables <li> Navigation <li>View <li> Permission</ul>|<ul><li>[Colorpicker-compose](https://github.com/skydoves/colorpicker-compose)  <li>[Balloon](https://github.com/skydoves/Balloon)<li>[System UI Controller](https://google.github.io/accompanist/systemuicontroller/) <li>[Drawable Painter](https://google.github.io/accompanist/drawablepainter/)<li>[Navigation Animation](https://google.github.io/accompanist/navigation-animation/) <li>[Navigation Material](https://google.github.io/accompanist/navigation-material/)<li>[WebView](https://google.github.io/accompanist/web/)<li>[Permission](https://google.github.io/accompanist/permissions/)</ul>|
+|Testing | |<ul><li> [JUnit](https://junit.org/junit5/docs/current/user-guide/) <li>[Espresso](https://developer.android.com/training/testing/espresso/index.html) <li> [Mockito](https://site.mockito.org/)</ul>|
+|Tools |<ul><li>Documentation <li>Code Formatter</ul> |<ul> <li>[Spotless](https://github.com/diffplug/spotless)<li>[Ktlint](https://pinterest.github.io/ktlint/)<li>[detekt](https://detekt.dev/docs/intro)</ul>|
+|I/O | |<ul><li>[Okio](https://square.github.io/okio/)</ul>|
+|Logger | | <ul><li>[Timber](https://github.com/square/anvil)</ul>|
+|Runtime Permission| |<ul><li>[EasyPermission](https://firebaseopensource.com/projects/googlesamples/easypermissions/)</ul>|
+|Memory Leak Detection| |<ul><li> [LeakCanary](https://square.github.io/leakcanary/)</ul>|
+|Map ||<ul><li>[Google Map](https://developers.google.com/maps/documentation/android-sdk/utility/setup)</ul>|
 
 
 ## 📓 Projects
