@@ -41,36 +41,36 @@ This repository cover a range of resources, including guides, tutorials, blogs, 
 ## 📓 Projects
 |Type|||
 |:----|:---|:---|
-| Jetpack Compose |<li>General<br><li>Blog<br><li>Chat<br><li>Financial App<br><li>Podcast<br><li>Survey<br><li>Travel App<br><li>Material Design styling<br><li>Email<br><li>Sleep Tracker<br><li>Physics layout |<li> [Now In Android](https://github.com/android/nowinandroid) <br> <li> [Jetnews](https://github.com/android/compose-samples/tree/main/JetNews) <br> <li> [Jetchat](https://github.com/android/compose-samples/tree/main/Jetchat) <br><li> [Rally](https://github.com/android/compose-samples/tree/main/Rally) <br> <li>[Jetcaster](https://github.com/android/compose-samples/tree/main/Jetcaster) <br> <li> [JetSurvey](https://github.com/android/compose-samples/tree/main/Jetsurvey) <br> <li> [Crane](https://github.com/android/compose-samples/tree/main/Crane)<br><li>[owl](https://github.com/android/compose-samples/tree/main/Owl)<br><li>[Replay](https://github.com/android/compose-samples/tree/main/Reply)<br><li>[JetLagged](https://github.com/android/compose-samples/tree/main/JetLagged)<br><li>[Compose Physics Layout](https://github.com/KlassenKonstantin/ComposePhysicsLayout)|
-| App migration to Jetpack compose||<li>[Sunflower](https://github.com/android/sunflower/tree/compose)|
-| Chat-GPT | |<li>[Chatgpt-android](https://github.com/skydoves/chatgpt-android)|
-| Architecture|<li>Architecture components<br><li>MVVM <br><br><li>Templates| <li>[Architecture Components Samples](https://github.com/android/architecture-components-samples)<li>[Pokedex](https://github.com/skydoves/Pokedex)<br><li>[DisneyMotions](https://github.com/skydoves/DisneyMotions)<br><li>[Architecture templates](https://github.com/android/architecture-templates)|
-| Jetpack Compose Cookbooks ||<li>[Compose samples](https://github.com/android/compose-samples)<br><li>[SSComposeCookBook](https://github.com/SimformSolutionsPvtLtd/SSComposeCookBook) <br><li>[Jetpack compose tutorials](https://github.com/SmartToolFactory/Jetpack-Compose-Tutorials)|
-|Media|<li>Audio App<br><li>Camera|<li>[uamp](https://github.com/android/uamp)<br><li>[Camera Samples](https://github.com/android/camera-samples)|
-|Kotlin Multi Platform| |<li>[Kotlin Muliti Platform Samples](https://github.com/android/kotlin-multiplatform-samples)|
-| Location||<li>[Location Samples](https://github.com/android/location-samples)|
-| Payment |<li> Google Play Billing|<li>[Play Billing Samples](https://github.com/android/play-billing-samples)|
-| Gradle based |<li>(Gradle Recipes)[https://github.com/android/gradle-recipes]|
+| Jetpack Compose |<ul><li>General<li>Blog<li>Chat<li>Financial App<li>Podcast<li>Survey<li>Travel App<li>Material Design styling<li>Email<li>Sleep Tracker<li>Physics layout </ul>|<ul><li> [Now In Android](https://github.com/android/nowinandroid) <li> [Jetnews](https://github.com/android/compose-samples/tree/main/JetNews) <li> [Jetchat](https://github.com/android/compose-samples/tree/main/Jetchat) <li> [Rally](https://github.com/android/compose-samples/tree/main/Rally) <li>[Jetcaster](https://github.com/android/compose-samples/tree/main/Jetcaster) <li> [JetSurvey](https://github.com/android/compose-samples/tree/main/Jetsurvey) <li> [Crane](https://github.com/android/compose-samples/tree/main/Crane)<li>[owl](https://github.com/android/compose-samples/tree/main/Owl)<li>[Replay](https://github.com/android/compose-samples/tree/main/Reply)<li>[JetLagged](https://github.com/android/compose-samples/tree/main/JetLagged)<li>[Compose Physics Layout](https://github.com/KlassenKonstantin/ComposePhysicsLayout)</ul>|
+| App migration to Jetpack compose||<ul><li>[Sunflower](https://github.com/android/sunflower/tree/compose)</ul>|
+| Chat-GPT | |<ul><li>[Chatgpt-android](https://github.com/skydoves/chatgpt-android)</ul>|
+| Architecture|<ul><li>Architecture components<li>MVVM <br><li>Templates</ul>| <ul><li>[Architecture Components Samples](https://github.com/android/architecture-components-samples)<li>[Pokedex](https://github.com/skydoves/Pokedex)<li>[DisneyMotions](https://github.com/skydoves/DisneyMotions)<li>[Architecture templates](https://github.com/android/architecture-templates)</ul>|
+| Jetpack Compose Cookbooks ||<ul><li>[Compose samples](https://github.com/android/compose-samples)<li>[SSComposeCookBook](https://github.com/SimformSolutionsPvtLtd/SSComposeCookBook) <li>[Jetpack compose tutorials](https://github.com/SmartToolFactory/Jetpack-Compose-Tutorials)</ul>|
+|Media|<ul><li>Audio App<li>Camera</ul>|<ul><li>[uamp](https://github.com/android/uamp)<li>[Camera Samples](https://github.com/android/camera-samples)</ul>|
+|Kotlin Multi Platform| |<ul><li>[Kotlin Muliti Platform Samples](https://github.com/android/kotlin-multiplatform-samples)</ul>|
+| Location||<ul><li>[Location Samples](https://github.com/android/location-samples)</ul>|
+| Payment |<ul><li> Google Play Billing</ul>|<ul><li>[Play Billing Samples](https://github.com/android/play-billing-samples)</ul>|
+| Gradle based ||<ul><li>(Gradle Recipes)[https://github.com/android/gradle-recipes]</ul>|
     
     
 ## ⚙ APIs
     
 |Type||
 |:----|:----|
-|AI | <li> [OpenAI(ChatGPT)](https://openai.com/blog/introducing-chatgpt-and-whisper-apis)|
-| Entertainment| <li> [Spotify](https://developer.spotify.com/documentation/web-api) <br> <li> [OMDb API](omdbapi.com) <br><li>[IMDB](https://developer.imdb.com/documentation/api-documentation/?ref_=/documentation/_PAGE_BODY) <br><li>[Youtube API](https://developers.google.com/youtube/?ref=apilist.fun)<br><li>[SoundCloud](https://developers.soundcloud.com/?ref=apilist.fun)<br><li>[YouTube Data API](https://developers.google.com/youtube/v3)|
-|Weather | <li> [Open Weather](https://openweathermap.org/api)<br><li>[Weatherbit](https://www.weatherbit.io/)<br><li>[MeteoSource](https://www.meteosource.com/)<br><li>[Meteostat](https://dev.meteostat.net/) <br><li>[Sunrise Sunset Times](https://rapidapi.com/Macca895/api/sunrise-sunset-times) <br><li>[Weather API](https://www.weatherapi.com/) <br><li>[]()|
-|Payment | <li>[Stripe](https://stripe.com/en-in?ref=apilist.fun)<br><li>[PayPal](https://developer.paypal.com/home)<br><li>[Mastercard](https://developer.mastercard.com/apis?ref=apilist.fun)<br><li>[Square API](https://developer.squareup.com/us/en?ref=apilist.fun)|
- |Quiz | <li>[Trivia API](https://the-trivia-api.com/)|
- |Food | <li>[TheMealDB](https://www.themealdb.com/api.php)<br><li>[Spoonacular API](https://spoonacular.com/food-api)<br><li>[Nutritionix](https://www.nutritionix.com/business/api)<br><li>[Nutritics](https://www.nutritics.com/en/services/api?)<br><li>[LogMeal](https://www.logmeal.es/api)|
- |Books | <li>[Google Books API](https://developers.google.com/books/docs/v1/reference/)<br><li>[Marvel](https://developer.marvel.com/documentation/getting_started)|
- |News | <li>[News API](https://newsapi.org/docs/get-started) |
- |Maps | <li>[Google Map API](https://developers.google.com/maps/documentation) |
- |Calendar | <li>[Google Calendar API](https://console.cloud.google.com/marketplace/product/google/calendar-json.googleapis.com)|
- |Chat | <li>[Google Chat API](https://developers.google.com/chat/api/reference/rest)<br> <li>[GetStream Chat API](https://getstream.io/chat/docs/) |
- |Ecommerce |<li>[Shopify](https://shopify.dev/docs/api)<br><li>[Amazon API](https://aws.amazon.com/api-gateway/)<br><li>[ebay](https://developer.ebay.com/develop/apis)<br><li>[Google Content API for Shopping](https://developers.google.com/shopping-content/guides/quickstart)|
- | Language Translation | <li>[Google Translate](https://cloud.google.com/translate/docs/overview)|
- | Social | <li>[Facebook](https://developers.facebook.com/docs/video-api/overview) <br><li>[Discord](https://discord.com/developers/docs/intro)<br><li>[Instagram](https://developers.facebook.com/docs/instagram-api/)<br><li>[LinkedIn](https://learn.microsoft.com/en-us/linkedin/)<br><li>[Printerest](https://developers.pinterest.com/docs/api/v5/)<br><li>[Reddit](https://www.reddit.com/dev/api/)<br><li>[Telegram](https://core.telegram.org/)<br><li>[Twitter](https://developer.twitter.com/en)<br><li>{Youtube](https://developers.google.com/youtube/v3)|
+|AI | <ul><li> [OpenAI(ChatGPT)](https://openai.com/blog/introducing-chatgpt-and-whisper-apis)</ul>|
+| Entertainment| <ul><li> [Spotify](https://developer.spotify.com/documentation/web-api) <li> [OMDb API](omdbapi.com) <li>[IMDB](https://developer.imdb.com/documentation/api-documentation/?ref_=/documentation/_PAGE_BODY) <li>[Youtube API](https://developers.google.com/youtube/?ref=apilist.fun)<li>[SoundCloud](https://developers.soundcloud.com/?ref=apilist.fun)<li>[YouTube Data API](https://developers.google.com/youtube/v3)</ul>|
+|Weather | <ul><li> [Open Weather](https://openweathermap.org/api)<li>[Weatherbit](https://www.weatherbit.io/)<li>[MeteoSource](https://www.meteosource.com/)<br><li>[Meteostat](https://dev.meteostat.net/) <br><li>[Sunrise Sunset Times](https://rapidapi.com/Macca895/api/sunrise-sunset-times) <li>[Weather API](https://www.weatherapi.com/)</ul>|
+|Payment | <ul><li>[Stripe](https://stripe.com/en-in?ref=apilist.fun)<li>[PayPal](https://developer.paypal.com/home)<li>[Mastercard](https://developer.mastercard.com/apis?ref=apilist.fun)<li>[Square API](https://developer.squareup.com/us/en?ref=apilist.fun)</ul>|
+ |Quiz | <ul><li>[Trivia API](https://the-trivia-api.com/)</ul>|
+ |Food | <ul><li>[TheMealDB](https://www.themealdb.com/api.php)<li>[Spoonacular API](https://spoonacular.com/food-api)<li>[Nutritionix](https://www.nutritionix.com/business/api)<li>[Nutritics](https://www.nutritics.com/en/services/api?)<li>[LogMeal](https://www.logmeal.es/api)</ul>|
+ |Books | <ul><li>[Google Books API](https://developers.google.com/books/docs/v1/reference/)<li>[Marvel](https://developer.marvel.com/documentation/getting_started)</ul>|
+ |News | <ul><li>[News API](https://newsapi.org/docs/get-started)</ul> |
+ |Maps | <ul><li>[Google Map API](https://developers.google.com/maps/documentation)</ul>|
+ |Calendar | <ul><li>[Google Calendar API](https://console.cloud.google.com/marketplace/product/google/calendar-json.googleapis.com)</ul>|
+ |Chat | <ul><li>[Google Chat API](https://developers.google.com/chat/api/reference/rest)<li>[GetStream Chat API](https://getstream.io/chat/docs/)</ul> |
+ |Ecommerce |<ul><li>[Shopify](https://shopify.dev/docs/api)<li>[Amazon API](https://aws.amazon.com/api-gateway/)<li>[ebay](https://developer.ebay.com/develop/apis)<li>[Google Content API for Shopping](https://developers.google.com/shopping-content/guides/quickstart)</ul>|
+ | Language Translation | <ul><li>[Google Translate](https://cloud.google.com/translate/docs/overview)</ul>|
+ | Social | <ul><li>[Facebook](https://developers.facebook.com/docs/video-api/overview) <li>[Discord](https://discord.com/developers/docs/intro)<li>[Instagram](https://developers.facebook.com/docs/instagram-api/)<li>[LinkedIn](https://learn.microsoft.com/en-us/linkedin/)<li>[Printerest](https://developers.pinterest.com/docs/api/v5/)<li>[Reddit](https://www.reddit.com/dev/api/)<li>[Telegram](https://core.telegram.org/)<li>[Twitter](https://developer.twitter.com/en)<li>[Youtube](https://developers.google.com/youtube/v3)</ul>|
     
 ## 📝 Blogs
 
